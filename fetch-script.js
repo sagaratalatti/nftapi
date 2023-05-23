@@ -5,7 +5,7 @@ var requestOptions = {
     redirect: 'follow'
 };
 
-const apiKey = "CUcVKSkKx_UHAigWRz4a7CS1b7AU3JWJ";
+const apiKey = "API_KEY";
 const baseURL = `https://eth-goerli.g.alchemy.com/nft/v2/${apiKey}/getNFTs/`;
 
 const ownerAddress = "0x3124475af0ba367fFf33a5DC9BcE78c41f493713";
