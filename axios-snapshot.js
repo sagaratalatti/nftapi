@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const contractAddress = "0x7BA2dc1781738bdC257083EcD4944965Bc36fe6b";
-const API_KEY = "CUcVKSkKx_UHAigWRz4a7CS1b7AU3JWJ";
+const API_KEY = "API_KEY";
 const baseURL = `https://eth-goerli.g.alchemy.com/nft/v2/${API_KEY}/getOwnersForCollection`
 
 // to fetch address owning NFTs from a collection
