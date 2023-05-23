@@ -1,0 +1,14 @@
+{
+  "name": "nftapi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "keywords": [],
+  "author": "",
+  "type": "module",
+  "dependencies": {
+    "alchemy-sdk": "^2.8.3",
+    "axios": "^1.4.0",
+    "node-fetch": "^3.3.1"
+  }
+}
