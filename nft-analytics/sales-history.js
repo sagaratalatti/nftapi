@@ -1,7 +1,7 @@
 import { Network, Alchemy, NftSaleMarketplace } from "alchemy-sdk";
 
 const config = {
-    apiKey: "CUcVKSkKx_UHAigWRz4a7CS1b7AU3JWJ",
+    apiKey: "API_KEY",
     network: Network.ETH_MAINNET
 };
 
