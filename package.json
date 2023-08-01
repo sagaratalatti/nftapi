@@ -7,7 +7,7 @@
   "author": "",
   "type": "module",
   "dependencies": {
-    "alchemy-sdk": "^2.8.3",
+    "alchemy-sdk": "^2.9.2",
     "axios": "^1.4.0",
     "node-fetch": "^3.3.1"
   }
