@@ -8,7 +8,7 @@
   "type": "module",
   "dependencies": {
     "alchemy-sdk": "^2.8.3",
-    "axios": "^1.4.0",
+    "axios": "^1.6.3",
     "node-fetch": "^3.3.1"
   }
 }
